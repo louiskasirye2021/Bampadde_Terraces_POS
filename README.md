@@ -1,7 +1,7 @@
 
-  # Ehyeh Youth Foundation
+  # POS System Design for Bampadde
 
-  This is a code bundle for Ehyeh Youth Foundation. The original project is available at https://www.figma.com/design/yw4ttj1oLOe6HHZJ7Uhh8q/Ehyeh-Youth-Foundation.
+  This is a code bundle for POS System Design for Bampadde. The original project is available at https://www.figma.com/design/bB8m8WzueHfCVqpGNyXZG3/POS-System-Design-for-Bampadde.
 
   ## Running the code
 
